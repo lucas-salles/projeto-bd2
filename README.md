@@ -4,7 +4,7 @@
 O objetivo deste projeto é implementar rotinas automáticas de processamento em banco de dados utilizando ​stored procedures, cursores, triggers, visões e suporte transacional para garantia da atomicidade.
 
 ## Banco de Dados
-O projeto deve foi implementado no banco de dados PostgreSQL.
+O projeto foi implementado no banco de dados PostgreSQL.
 
 ## Esquema de Banco de Dados
 Considere o seguinte esquema relacional para um sistema de contabilidade:
